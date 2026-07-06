@@ -1,2 +1,2 @@
 # PI-2026-1F-6G
-Curso Informatica para Internet - Projeto Integrador
+Curso de Informática para Internet - Projeto Integrador
