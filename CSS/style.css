@@ -125,23 +125,27 @@
         .fundo{
             background-color: #6585a8;
             margin: 70px;
+            display: flex;
+            justify-content: space-evenly;
         }
 
         .menu-item{
                 display: inline-block;
                 color: #121f00;
-                padding: 10px 20px;
-                margin: 0 5px;
+                padding: 20px 50px;
+                margin: 20px ;
                 background-color: #4d6a89;
                 border-radius: 5px;
                 cursor: pointer;
                 vertical-align: top;
+                text-align: center;
+                font-size: 25px;
             }
 
             .submenu{
                 display: none;
                 background-color: #a2bcdf;
-                padding: 10px;
+                padding: 30px;
                 margin-top: 5px;
                 min-width: 150px;
                 border-radius: 5px;
