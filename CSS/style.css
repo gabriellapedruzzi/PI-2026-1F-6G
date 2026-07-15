@@ -120,12 +120,12 @@
             display: block;
             margin-left: auto;
             margin-right: auto;
-            border: 4px solid #012952;
+            border: 6px solid #4e6e8f;
         }
 
         .fundo{
             background-color: #6585a8;
-            margin: 70px;
+            margin: 0;
             display: flex;
             justify-content: space-evenly;
         }
