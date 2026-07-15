@@ -133,7 +133,7 @@
         .menu-item{
                 display: inline-block;
                 color: #121f00;
-                padding: 20px 50px;
+                padding: 20px 40px;
                 margin: 20px ;
                 background-color: #4d6a89;
                 border-radius: 5px;
@@ -146,9 +146,9 @@
             .submenu{
                 display: none;
                 background-color: #a2bcdf;
-                padding: 30px;
+                padding: 25px;
                 margin-top: 5px;
-                min-width: 150px;
+                min-width: 100px;
                 border-radius: 5px;
             }
 
