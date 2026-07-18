@@ -10,7 +10,7 @@
 
          h1{
             color: #012952;
-            font-size: 4.5em;
+            font-size: 80px;
             text-align: center;
             background-color: #6585a8;
             font-style: oblique;
@@ -105,7 +105,7 @@
             background-color: #6585a8;
             text-align: left;
             width: 91%;
-            height: 400px;
+            height: 480px;
             h2{
                 text-align: left;
                 padding: 20px;
@@ -118,6 +118,8 @@
 
         .videos{
             display: block;
+            margin-top: 30px;
+            margin-bottom: 30px;
             margin-left: auto;
             margin-right: auto;
             border: 6px solid #4e6e8f;
