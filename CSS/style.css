@@ -133,13 +133,13 @@
             background-color: #6585a8;
             margin: 0;
             display: flex;
-            justify-content: space-evenly;
+            justify-content: center;
         }
 
         .menu-item{
                 display: inline-block;
-                color: #121f00;
-                padding: 20px 40px;
+                color: #002346;
+                padding: 20px 35px;
                 margin: 20px ;
                 background-color: #4d6a89;
                 border-radius: 5px;
@@ -162,7 +162,7 @@
             .submenu a{
                 margin: 5px 0;
                 padding: 5px;
-                color: #d4dbf2;
+                color: #002346;
                 text-decoration: none;
                 text-align: center;
             }
