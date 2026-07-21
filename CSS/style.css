@@ -43,6 +43,11 @@ button {
 a {
   color: #39516a;
   text-decoration: none;
+  font-size: 20px;
+}
+
+a:hover{
+    font-size: 21px;
 }
 
 .centro {
