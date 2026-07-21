@@ -26,7 +26,7 @@
             }
 
         p{
-            color: #012952;
+            color: #001d39;
             font-size: 20px;
             text-indent: 30px;
 
@@ -82,6 +82,7 @@
             p{
                 font-size: 15px;
                 margin: 20px;
+                text-align: justify;
             }
         }
 
@@ -98,6 +99,7 @@
             p{
                 font-size: 15px;
                 margin: 20px;
+                text-align: justify;
             }
         }
 
@@ -115,6 +117,7 @@
             p{
                 font-size: 15px;
                 margin: 20px;
+                text-align: justify;
             }
         }
 
