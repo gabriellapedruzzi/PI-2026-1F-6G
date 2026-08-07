@@ -53,6 +53,7 @@ a:hover{
   background-color: #39516a;
   display: flex;
   justify-content: space-evenly;
+  height: 60px;
   a {
     color: white;
   }
