@@ -30,16 +30,6 @@ p {
   text-indent: 30px;
 }
 
-button {
-  background-color: #a2bcdf;
-  padding: 40px 90px 40px 90px;
-  border-top: none;
-  border-right: none;
-  border-left: none;
-  border-bottom: 6px solid #6585a8;
-  border-radius: 10px;
-}
-
 a {
   color: #39516a;
   text-decoration: none;
