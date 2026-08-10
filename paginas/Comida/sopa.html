@@ -2,19 +2,36 @@
 <html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Sopa</title>
-        <link rel="stylesheet" href="/CSS/style.css">
+        <link rel="stylesheet" href="../../CSS/style.css">
         
     </head>
     <body>
         <h1>Sopa</h1>
         
         <section>
-            <video width="65%" controls class="videos">
-                <source src="/imagens/sopa.mp4" type="video/mp4">
+            <video id="videoOriginal" width="65%" controls class="videos" >
+                <source src="../../imagens/sopa.mp4" type="video/mp4">
             </video>
         </section>
         
+        <div id="fundoVideo" class="fundoVideo">
+
+            <span id="fecharVideo" class="fecharVideo">&times;</span>
+
+            <video id="videoExpandido" width="80%" controls>
+                <source src="../../imagens/sopa.mp4"  type="video/mp4">
+            </video>
+
+            <p id="nomeVideo">Sopa</p>
+
+        </div>
+
+
         <p class="Voltar"><a href="/index.html">VOLTAR PARA O INICIO</a></p>
+
+        <script src="../../../JavaScript/JavaScript.js"></script>
+
     </body>
 </html>
