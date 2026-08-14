@@ -270,3 +270,9 @@ summary {
 .fecharVideo:hover {
     color: #ccc;
 }
+
+.botao_voltar{
+  background-color: #001d39;
+  color: white;
+  border-radius: 50%;
+}
