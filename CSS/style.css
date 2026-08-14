@@ -198,6 +198,7 @@ summary {
   margin: 0;
 }
 
+
 .Voltar {
   background-color: #6585a8;
   text-align: center;
@@ -271,8 +272,3 @@ summary {
     color: #ccc;
 }
 
-.botao_voltar{
-  background-color: #001d39;
-  color: white;
-  border-radius: 50%;
-}
