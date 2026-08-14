@@ -78,38 +78,59 @@ a:hover{
 }
 .o-que-e {
   margin: 70px;
-  background-color: #6e8daf;
+  background-color: #7da0c6;
   text-align: left;
   width: 45%;
-  height: 320px;
+  min-height: 350px;
   border: 2px solid #5e7b9a;
-  h2 {
-    text-align: left;
-    margin: 20px;
-  }
-  p {
-    font-size: 17px;
-    margin: 20px;
-    text-align: justify;
-  }
+  padding: 20px;
+}
+
+.o-que-e h2 {
+  text-align: left;
+  margin: 0 0 20px 0;
+}
+
+.o-que-e p {
+  font-size: 17px;
+  margin: 20px;
+  text-align: justify;
+}
+
+.o-que-e img {
+  float: right;
+  width: 200px;
+  height: auto;
+  margin: 10px 10px 10px 20px;
 }
 
 .leis {
   margin: 70px;
-  background-color: #6e8daf;
+  background-color: #7da0c6;
   text-align: left;
   width: 45%;
-  height: 320px;
+  min-height: 350px;
   border: 2px solid #5e7b9a;
-  h2 {
-    text-align: left;
-    margin: 20px;
-  }
-  p {
-    font-size: 17px;
-    margin: 20px;
-    text-align: justify;
-  }
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.leis h2 {
+  text-align: left;
+  margin: 0 0 20px 0;
+}
+
+.leis p {
+  font-size: 17px;
+  margin: 20px;
+  text-align: justify;
+}
+
+.leis img {
+  float: right;
+  width: 200px;
+  height: auto;
+  margin: 10px 10px 10px 20px;
 }
 
 .historia {
@@ -160,7 +181,7 @@ a:hover{
 
 .menu-item:hover{
     padding: 21px 36px;
-    background-color: #8aa5c8 ;
+    background-color: #87aad7 ;
 }
 
 .submenu {
