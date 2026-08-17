@@ -40,7 +40,6 @@ h2 {
 p {
   color: #001d39;
   font-size: 20px;
-  text-indent: 30px;
 }
 
 a {
@@ -83,6 +82,7 @@ a:hover{
   width: 45%;
   min-height: 350px;
   border: 2px solid #5e7b9a;
+  border-radius: 5px;
   padding: 20px;
 }
 
@@ -103,6 +103,11 @@ a:hover{
   height: auto;
   margin: 10px 10px 10px 20px;
   border: 2px solid #6d93bb;
+  border-radius: 7px;
+}
+
+.o-que-e img:hover{
+  border: 4px solid #5c82aa;
 }
 
 .leis {
@@ -112,6 +117,7 @@ a:hover{
   width: 45%;
   min-height: 350px;
   border: 2px solid #5e7b9a;
+  border-radius: 5px;
   padding: 20px;
   box-sizing: border-box;
 }
@@ -133,6 +139,11 @@ a:hover{
   height: auto;
   margin: 10px 10px 10px 20px;
   border: 2px solid #6d93bb;
+  border-radius: 7px;
+}
+
+.leis img:hover{
+  border: 4px solid #5c82aa;
 }
 
 .historia {
@@ -140,12 +151,10 @@ a:hover{
   text-align: left;
   width: 91%;
   height: 530px;
-
   border: 2px solid #5e7b9a;
-
+  border-radius: 5px;
   background-image: url("/imagens/linha_do_tempo2.png");
   background-size: 88%;
-  
   background-position: center;
 }
 
