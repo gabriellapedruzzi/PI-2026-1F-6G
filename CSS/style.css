@@ -98,7 +98,7 @@ a:hover{
 .o-que-e p {
   font-size: 19px;
   margin: 20px;
-  text-align: left;
+  text-align: justify;
 }
 
 .o-que-e img {
@@ -138,7 +138,7 @@ a:hover{
 .leis p {
   font-size: 19px;
   margin: 20px;
-  text-align: left;
+  text-align: justify;
 }
 
 .leis img {
