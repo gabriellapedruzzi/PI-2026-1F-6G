@@ -33,7 +33,7 @@ h1 {
 
 h2 {
   color: #012952;
-  font-size: 2em;
+  font-size: 32px;
   text-align: center;
 }
 
@@ -62,7 +62,7 @@ a:hover{
 }
 
 .menu {
-  background-color: #39516a;
+  background-color: #394f6a;
   display: flex;
   justify-content: space-evenly;
   height: 70px;
@@ -89,6 +89,10 @@ a:hover{
 .o-que-e h2 {
   text-align: left;
   margin: 0 0 20px 0;
+}
+
+.o-que-e h2:hover{
+  color: #021d37;
 }
 
 .o-que-e p {
@@ -125,6 +129,10 @@ a:hover{
 .leis h2 {
   text-align: left;
   margin: 0 0 20px 0;
+}
+
+.leis h2:hover{
+  color: #021d37;
 }
 
 .leis p {
@@ -308,7 +316,7 @@ footer img{
 }
 
 footer p{
-  margin-left: 400px;
+  margin-left: 450px;
   text-align: center;
   color: white;
 }
