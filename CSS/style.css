@@ -88,7 +88,7 @@ a:hover{
 
 .o-que-e h2 {
   text-align: left;
-  margin: 0 0 20px 0;
+  margin: 0 0 20px 20px;
 }
 
 .o-que-e h2:hover{
@@ -128,7 +128,7 @@ a:hover{
 
 .leis h2 {
   text-align: left;
-  margin: 0 0 20px 0;
+  margin: 0 0 20px 20px;
 }
 
 .leis h2:hover{
@@ -233,36 +233,20 @@ summary {
 }
 
 
-.Voltar {
-  background-color: #6585a8;
-  text-align: center;
-  padding: 20px;
-  margin: 10px;
-  border-radius: 10px;
-  color: #d4dbf2;
-  a {
-    color: #d4dbf2;
-  }
-}
+
 
 
 .fundoVideo {
     display: none;
-
     position: fixed;
     z-index: 999;
-
     left: 0;
     top: 0;
-
     width: 100%;
     height: 100%;
-
     background-color: rgba(0, 0, 0, 0.85);
-
     justify-content: center;
     align-items: center;
-
     flex-direction: column;
 }
 
@@ -319,4 +303,31 @@ footer p{
   margin-left: 450px;
   text-align: center;
   color: white;
+}
+
+
+.Voltar {
+  background-color: #6585a8;
+  text-align: center;
+  padding: 10px 300px;
+  margin: 10px 0;
+  border-radius: 10px;
+  color: #d4dbf2;
+  a {
+    color: #d4dbf2;
+  }
+}
+
+.iniciais{
+  display: flex;
+  justify-content: space-around;
+}
+
+.resto .Voltar{
+  padding:  10px 150px;
+}
+
+.resto{
+  display: flex;
+  justify-content: space-around;
 }
