@@ -189,7 +189,7 @@ a:hover{
 .menu-item {
   display: inline-block;
   color: #002346;
-  padding: 20px 35px;
+  padding: 18px 33px;
   margin: 20px;
   background-color: #a2bcdf;
   border-radius: 5px;
@@ -200,21 +200,21 @@ a:hover{
 }
 
 .menu-item:hover{
-    padding: 21px 36px;
+    padding: 19px 34px;
     background-color: #8aa5c8 ;
 }
 
 .submenu {
   text-align: center;
   background-color: #7a97bc;
-  padding: 25px;
+  padding: 23px;
   margin-top: 5px;
   min-width: 100px;
   border-radius: 5px;
 }
 
 .submenu a {
-  margin: 5px 0;
+  margin: 4px 0;
   padding: 5px;
   color: #002346;
   text-decoration: none;
