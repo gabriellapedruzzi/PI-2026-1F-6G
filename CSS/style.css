@@ -184,6 +184,7 @@ a:hover{
   margin: 0;
   display: flex;
   justify-content: center;
+  height: 110px;
 }
 
 .menu-item {
@@ -295,6 +296,7 @@ footer{
   display: flex;
   background-color: #39516a;
   padding: 10px;
+  height: 78px;
 }
 footer img{
   height: 50px;
