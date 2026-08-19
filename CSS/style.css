@@ -176,6 +176,7 @@ a:hover{
   border-bottom: 10px solid #39516a;
   border-top: 10px solid #39516a;
   border-radius: 3px;
+  width: 55%;
 }
 
 .fundo {
@@ -309,7 +310,7 @@ footer p{
 .Voltar {
   background-color: #6585a8;
   text-align: center;
-  padding: 10px 300px;
+  padding: 10px 270px;
   margin: 10px 0;
   border-radius: 10px;
   color: #d4dbf2;
