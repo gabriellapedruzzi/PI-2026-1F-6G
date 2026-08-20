@@ -19,13 +19,9 @@ body {
   margin: 0;
   padding: 0;
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
   background-image: url("../imagens/hero.png");
   background-size: 100% auto;
-  background-position: bottom center;
+  background-position: bottom;
   background-repeat: no-repeat;
 
   color: #012952;
