@@ -161,7 +161,7 @@ a:hover{
   height: 530px;
   border: 2px solid #5e7b9a;
   border-radius: 5px;
-  background-image: url(/imagens/linha_do_tempo2.png);
+  background-image: url("imagens/linha_do_tempo2.png");
   background-size: 88%;
   background-position: center;
 }
